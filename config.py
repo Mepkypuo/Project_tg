@@ -1,5 +1,5 @@
-BOT_TOKEN = '6481640197:AAG2rpJXHMp-1B4DhW5XLdigRwfutCJaoAk'
+BOT_TOKEN = 'ВАШ ТОКЕН'
 
-MY_ID = '553485630'
+MY_ID = 'ИД вашего аккаунта ТГ'
 
-OPENAI_TOKEN = "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"
+OPENAI_TOKEN = "ТОКЕН openAI"
